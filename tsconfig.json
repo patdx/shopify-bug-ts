@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Node16",
+    "strict": true
+  },
+  "files": ["index.ts"]
+}

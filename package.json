@@ -1,0 +1,17 @@
+{
+  "name": "shopify-ts-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shopify/admin-graphql-api-utilities": "^2.0.0",
+    "typescript": "^4.7.4"
+  }
+}
